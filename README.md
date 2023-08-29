@@ -56,6 +56,18 @@ resources, and technology adoption.
 ● Understand the challenges faced by small-scale farmers and their contribution to
 the agricultural sector.
 
+
+
+## Technology Used
+
+#### 1)  IBM Cognos Analytics
+
+#### 2) Web Framework - Flask
+
+#### 3) Front-end Tools
+
+
+
 ## OUTPUTS
 
 1.Home
